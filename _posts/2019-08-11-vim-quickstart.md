@@ -3,7 +3,6 @@ layout: post
 title: Шпаргалка по Vim
 subtitle: Самые основы
 image: /img/vim.png
-bigimg: /img/term.jpg
 tags: [vim]
 comments: false
 ---
